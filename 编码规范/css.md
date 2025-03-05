@@ -170,8 +170,8 @@
 
   - CSScomb
 
+    .csscomb.json
     ```json
-      // .csscomb.json
       {
         "sort-order": "alphabetical",
         "exclude": []
@@ -180,19 +180,19 @@
 
   - Stylelint
 
+    .stylelintrc.json
     ```json
-      // .stylelintrc.json
       {
         "rules": {
           "declaration-block-properties-order": "alphabetical"
         }
       }
     ```
-    
+
   - Prettier - Code formatter
 
+    .prettierrc.json
     ```json
-      // .prettierrc.json
       {
         "singleQuote": true,
         "trailingComma": "es5",
