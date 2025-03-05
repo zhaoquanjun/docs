@@ -168,7 +168,7 @@
 
 * CSS 中的属性名建议按照字母顺序排列，借助 vscode 插件。
 
-  1. CSScomb
+  - CSScomb
 
     ```json
       // .csscomb.json
@@ -178,7 +178,7 @@
       }
     ```
 
-  2. Stylelint
+  - Stylelint
 
     ```json
       // .stylelintrc.json
@@ -188,7 +188,8 @@
         }
       }
     ```
-  3. Prettier - Code formatter
+    
+  - Prettier - Code formatter
 
     ```json
       // .prettierrc.json
